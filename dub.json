@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"chrisbrake"
+	],
+	"copyright": "Copyright © 2019, chrisbrake",
+	"description": "A minimal D application.",
+	"license": "BSD 3-Clause",
+	"name": "sandbox"
+}
